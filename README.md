@@ -10,7 +10,7 @@ Otherwise, just use the default `main` branch and you'll be plugged into the off
 
 This is a simple chat-bot that uses the OpenAI ChatGPT API.
 
-You can watch the original video walkthrough that uses the davinci-model [here](https://youtu.be/jQFhtFMDz1s). There will be a new video coming shortly to match the new code.
+You can watch the video walkthrough i used that uses the davinci-model [here](https://youtu.be/jQFhtFMDz1s).
 
 # Setup
 
